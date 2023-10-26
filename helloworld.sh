@@ -5,6 +5,7 @@
 # Date of Latest Revision:   10/24/2023
 # Purpose:                   Ops201 Challenge 02
 
+
 # Declaration of Variables:
 txt1="Hello World"
 txt2="I am working perfectly!"
