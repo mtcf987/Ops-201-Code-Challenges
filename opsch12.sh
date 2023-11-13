@@ -10,7 +10,7 @@ $ReportFilePath = "C:\Users\desktop-ug2g65h\malenatomlin\network_report.txt"
 # Functions:
 Function Get-NetIPv4 
 {
-    ipconfig /all > $ReportFilePath
+    ipconfig /all > $ReportFilePath -Pattern "IPvA"
 }
 
 # Main:
